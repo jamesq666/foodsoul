@@ -1,0 +1,52 @@
+#link {
+    border-color: black;
+    border-style: solid;
+    border-radius: 14px;
+    font-size: 16px;
+    padding: 10px;
+    width: 35%;
+    height: 30px;
+}
+
+#cut {
+    background-color: #b0bdd633;
+    border-color: black;
+    border-radius: 14px;
+    border-style: solid;
+    font-size: 16px;
+    width: 10%;
+    height: 54px;
+    margin-left: 10px;
+}
+
+#short_link {
+    border-color: black;
+    border-style: solid;
+    border-radius: 14px;
+    font-size: 16px;
+    padding: 10px;
+    width: 35%;
+    height: 30px;
+}
+
+#log {
+    background-color: #b0bdd633;
+    border-color: black;
+    border-radius: 14px;
+    border-style: solid;
+    font-size: 16px;
+    width: 10%;
+    height: 34px;
+    margin-bottom: 10px;
+}
+
+#reg {
+    background-color: #b0bdd633;
+    border-color: black;
+    border-radius: 14px;
+    border-style: solid;
+    font-size: 16px;
+    width: 10%;
+    height: 34px;
+    margin-bottom: 10px;
+}

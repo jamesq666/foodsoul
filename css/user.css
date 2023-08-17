@@ -1,0 +1,52 @@
+#email {
+     border-color: black;
+     border-style: solid;
+     border-radius: 14px;
+     font-size: 16px;
+     padding: 10px;
+     width: 35%;
+     height: 30px;
+}
+
+#pass {
+    border-color: black;
+    border-style: solid;
+    border-radius: 14px;
+    font-size: 16px;
+    padding: 10px;
+    width: 35%;
+    height: 30px;
+}
+
+#log {
+    background-color: #b0bdd633;
+    border-color: black;
+    border-radius: 14px;
+    border-style: solid;
+    font-size: 16px;
+    width: 10%;
+    height: 34px;
+    margin-bottom: 10px;
+}
+
+#reg {
+    background-color: #b0bdd633;
+    border-color: black;
+    border-radius: 14px;
+    border-style: solid;
+    font-size: 16px;
+    width: 10%;
+    height: 34px;
+    margin-bottom: 10px;
+}
+
+#back {
+    background-color: #b0bdd633;
+    border-color: black;
+    border-radius: 14px;
+    border-style: solid;
+    font-size: 16px;
+    width: 10%;
+    height: 34px;
+    margin-bottom: 10px;
+}
